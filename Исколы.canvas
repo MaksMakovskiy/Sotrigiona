@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"053c5c35caf89fe3","x":-520,"y":-760,"width":400,"height":400,"color":"1","type":"file","file":"История/Первосоздатели/Смысла.md"},
+		{"id":"78dd60f2a836d48b","x":-520,"y":-360,"width":400,"height":400,"color":"4","type":"file","file":"История/Первосоздатели/Пространства.md"},
+		{"id":"a99f4873ca99a84b","x":-520,"y":40,"width":400,"height":393,"color":"3","type":"file","file":"История/Первосоздатели/Пути.md"},
+		{"id":"8fafa6bba392077d","x":-520,"y":433,"width":400,"height":400,"type":"file","file":"История/Первосоздатели/Нигилизма.md"},
+		{"id":"18eb3243a63aa8ec","x":360,"y":613,"width":250,"height":50,"type":"text","text":"Уничтожать"},
+		{"id":"4b80dedc9839f4b9","x":360,"y":-590,"width":250,"height":60,"type":"text","text":"Создавать"},
+		{"id":"ee18b51eb1f200f7","x":360,"y":-190,"width":250,"height":60,"type":"text","text":"Изменять"},
+		{"id":"b6173aff03456c24","x":960,"y":-390,"width":250,"height":60,"type":"text","text":"Основа"},
+		{"id":"23f007add1f590c3","x":960,"y":207,"width":250,"height":60,"type":"text","text":"Проявлени"}
+	],
+	"edges":[
+		{"id":"48978ca55f7f9984","fromNode":"053c5c35caf89fe3","fromSide":"right","toNode":"4b80dedc9839f4b9","toSide":"left","color":"1"},
+		{"id":"9711b4e669d127bf","fromNode":"053c5c35caf89fe3","fromSide":"right","toNode":"ee18b51eb1f200f7","toSide":"left","color":"1"},
+		{"id":"25e71568c6b1f361","fromNode":"053c5c35caf89fe3","fromSide":"right","toNode":"18eb3243a63aa8ec","toSide":"left","color":"1"},
+		{"id":"46006cccdb1ab24d","fromNode":"4b80dedc9839f4b9","fromSide":"right","toNode":"b6173aff03456c24","toSide":"top","color":"1"},
+		{"id":"30864f875d66a938","fromNode":"ee18b51eb1f200f7","fromSide":"right","toNode":"b6173aff03456c24","toSide":"left","color":"1"},
+		{"id":"5e2656755fda1e1d","fromNode":"18eb3243a63aa8ec","fromSide":"right","toNode":"b6173aff03456c24","toSide":"bottom","color":"1"},
+		{"id":"7f13cb5e9d66467f","fromNode":"a99f4873ca99a84b","fromSide":"right","toNode":"ee18b51eb1f200f7","toSide":"left","color":"3"},
+		{"id":"5d5f0973f590cc18","fromNode":"a99f4873ca99a84b","fromSide":"right","toNode":"18eb3243a63aa8ec","toSide":"left","color":"3"},
+		{"id":"5d6e184e9d66f417","fromNode":"18eb3243a63aa8ec","fromSide":"right","toNode":"23f007add1f590c3","toSide":"left","color":"3"},
+		{"id":"20278e779e5dca9d","fromNode":"ee18b51eb1f200f7","fromSide":"right","toNode":"23f007add1f590c3","toSide":"left","color":"3"},
+		{"id":"50752ce8d8fb90f6","fromNode":"78dd60f2a836d48b","fromSide":"right","toNode":"4b80dedc9839f4b9","toSide":"left","color":"4"},
+		{"id":"70c361f9c41aea1d","fromNode":"78dd60f2a836d48b","fromSide":"right","toNode":"ee18b51eb1f200f7","toSide":"left","color":"4"},
+		{"id":"a566e993b7c8ffaf","fromNode":"78dd60f2a836d48b","fromSide":"right","toNode":"18eb3243a63aa8ec","toSide":"left","color":"4"},
+		{"id":"87f2a73da3678324","fromNode":"4b80dedc9839f4b9","fromSide":"right","toNode":"23f007add1f590c3","toSide":"left","color":"4"},
+		{"id":"e47c1f823c567171","fromNode":"ee18b51eb1f200f7","fromSide":"right","toNode":"23f007add1f590c3","toSide":"left","color":"4"},
+		{"id":"de47387db402f71e","fromNode":"18eb3243a63aa8ec","fromSide":"right","toNode":"23f007add1f590c3","toSide":"bottom","color":"4"},
+		{"id":"742db2fa660fbd05","fromNode":"4b80dedc9839f4b9","fromSide":"right","toNode":"b6173aff03456c24","toSide":"left","color":"4"},
+		{"id":"87426aea361253bf","fromNode":"ee18b51eb1f200f7","fromSide":"right","toNode":"b6173aff03456c24","toSide":"bottom","color":"4"},
+		{"id":"4d2284bcf7fcca2d","fromNode":"8fafa6bba392077d","fromSide":"right","toNode":"18eb3243a63aa8ec","toSide":"left"},
+		{"id":"32c9f8d79193e372","fromNode":"18eb3243a63aa8ec","fromSide":"right","toNode":"23f007add1f590c3","toSide":"right"}
+	]
+}
