@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "f2088279c3f578d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb00db97a7e0adf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "581f22a3c2a345e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sotrigiona/Система/Уровни сил.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Уровни сил"
+            }
+          },
+          {
+            "id": "f7ca3ea9f36b22ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "История/Сотрины/Сотрина.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Сотрина"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "84373885ac4a7923",
+    "type": "split",
+    "children": [
+      {
+        "id": "9559b91de8ce66f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bb19f9ce6f5c1306",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "9b17b5f6389db107",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "15d611425a7b869c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3126e8cfceb83c45",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbcc747ee1f90e02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38d40bab11d94f3c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Система/Уровни сил.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Уровни сил"
+            }
+          },
+          {
+            "id": "0ec50d806af790e3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Система/Уровни сил.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Уровни сил"
+            }
+          },
+          {
+            "id": "51ae2c14a8431113",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "8e61eda6a2eaf1bf",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "90614e7f3bf6ba9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Система/Уровни сил.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Уровни сил"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "f7ca3ea9f36b22ca",
+  "lastOpenFiles": [
+    "История/Сотрины/Согритриона.md",
+    "История/Сотрины/Первая.md",
+    "История/Сотрины/Вторая.md",
+    "Sotrigiona/LICENSE",
+    "Sotrigiona",
+    "Без названия.md",
+    "Заклинатель Слуги.md",
+    "Sotrigiona/Интро.md",
+    "Sotrigiona/История/Сотрины/Сотрина.md",
+    "Sotrigiona/История/Сотрины/Первая.md",
+    "Sotrigiona/История/Сотрины/Согритриона.md",
+    "Sotrigiona/История/Сотрины/Вторая.md",
+    "Sotrigiona/История/Оружия Арканы/Кааркан.md",
+    "Sotrigiona/История/Оружия Арканы/Зааркан.md",
+    "Sotrigiona/Система/Уровни сил.md",
+    "Игровые системы/ДНД/Хомбрю/Заклинатель Слуги",
+    "Игровые системы/ДНД/Хомбрю",
+    "Игровые системы/ДНД",
+    "Игровые системы",
+    "Sotrigiona/Аркания.md",
+    "Sotrigiona/Система/Навыки/Магия.md",
+    "Sotrigiona/Система/Навыки/Манипуляция Основой - Номоклазм.md",
+    "Sotrigiona/История/Оружия Арканы",
+    "Sotrigiona/История/Сотрины",
+    "Sotrigiona/История",
+    "Sotrigiona/Система/Навыки"
+  ]
+}
